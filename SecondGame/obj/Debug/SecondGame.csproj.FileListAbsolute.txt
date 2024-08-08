@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\bin\Debug\SecondGame.exe.config
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\bin\Debug\SecondGame.exe
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\bin\Debug\SecondGame.pdb
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\SecondGame.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\SecondGame.Form1.resources
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\SecondGame.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\SecondGame.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\SecondGame.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\SecondGame.exe
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\SecondGame.pdb
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lab_services_student\source\repos\SecondGame\SecondGame\obj\Debug\SecondGame.csproj.ResolveComReference.cache
